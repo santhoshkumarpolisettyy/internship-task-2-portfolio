@@ -28,7 +28,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+(https://internship-task-2-portfolio-tk89.vercel.app)
 
 ## 👨‍💻 Author
 
