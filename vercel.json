@@ -1,6 +1,3 @@
 {
-  "routes": [
-    { "src": "/services", "dest": "/services.html" },
-    { "src": "/contact", "dest": "/contact.html" }
-  ]
+  "outputDirectory": "dist"
 }
